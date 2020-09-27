@@ -9,3 +9,6 @@ The program receives a Wikipedia link as an input, go to another normal link and
 `python task1-GettingtoPhilosophy.py`
 
 Since we didn't provide a -dir argument all logs files will be saved in current directory.
+
+## The output 
+![Gifrun](https://upload.wikimedia.org/wikipedia/commons/e/e2/Crawl_on_Wikipedia_from_random_article_to_Philosophy..gif)
