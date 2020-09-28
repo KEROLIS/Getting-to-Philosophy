@@ -9,8 +9,7 @@ git clone https://github.com/KEROLIS/Getting-to-Philosophy.git
 ```
 
 ## Prerequisites:
-1. Python 3.7
-2. python requests module `pip install requests`
+*  Python 3.7
 
 ## Usage:
 `python task1-GettingtoPhilosophy.py`
